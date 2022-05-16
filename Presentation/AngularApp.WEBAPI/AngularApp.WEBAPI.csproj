@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\AngularApp.Application\AngularApp.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\AngularApp.Persistence\AngularApp.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
